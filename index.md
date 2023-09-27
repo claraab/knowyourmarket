@@ -21,3 +21,9 @@ Bien qu'elle emprunte son nom au marketing la discipline s'inspire également d'
 De nombreux acteurs sont concernés par ce type de marketing, à plusieurs échelles car la revalorisation d’un territoire peut se faire autant au niveau régional, qu’à celui d’une ville ou d’un territoire. Que ce soient des acteurs publics, tels que les municipalités ou les offices de tourisme, que les acteurs privés, le marketing territorial est bénéfique à tous les niveaux car ils augmentent les opportunités.
 
 # Les différentes techniques marketing
+blabla
+Pour en apprendre plus sur les techniques de traduction cliquez [ici](interculturality.md)
+
+Pour plus de clarté, cliquez [ici](case20%study.md) pour voir des illustrations. 
+
+[Me contacter](...)
