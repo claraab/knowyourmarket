@@ -49,8 +49,9 @@ Le marketing digital est évidemment une part crucial de la promotion d'un terri
 6. **Investissement dans l'économie locale**
 Enfin, soutenir le développement économique local est une manière de redynamiser le territoire et le rendre plus attractif, notammant en promouvant l'entrepreneuriat, ou en attirant de nouveaux habitants. Ainsi, bon nombre de villages cède des terrains au prix d'1€ le m² afin d'attirer de jeunes ménages n'ayant pas autrement les moyens de s'installer. Le territoire de Grand-Orly Seine Bièvre en région Ile-de-France quant à lui cherche à attirer les entreprises sur son territoire notamment aux salons [Techinnov](https://www.techinnov.events/), ou bien le [Salon de l'immobilier d'entreprise](https://www.salonsimi.com/)
    
-Pour en apprendre plus sur les techniques de traduction cliquez [ici](interculturality.md)
+Les [enjeux internationaux](interculturality.md) du marketing de destination est également un élément capital à prendre en compte.
 
-Pour plus de clarté, cliquez [ici](case20%study.md) pour voir des illustrations. 
+Les [exemples de marketing territorial] sont très nombreux, sur cet onglet j'en décris quelques uns. iquez [ici](case20%study.md) pour voir des illustrations. 
 
-[Me contacter](...)
+---------------------------------------------------------------------------------
+[Pour me contacter](...)
