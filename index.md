@@ -1,5 +1,6 @@
 # Le Marketing Territorial 
 ---------------------------------------------------------------------
+![paysage d'automne Seine et Marne](pics/paysage.jpg)
 
 _Le tourisme est une des industries ayant été la plus touchée par la crise sanitaire qui a frappé le monde entier en 2020. Malgré cela, et la fermeture de nombreuses infrastructures,
 l’industrie se relève progressivement. En effet selon l’Organisation Mondiale du Tourisme, le tourisme mondial aurait atteint 84% des niveaux pré-pandémiques lors du premier semestre de
