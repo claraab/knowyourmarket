@@ -51,7 +51,7 @@ Enfin, soutenir le développement économique local est une manière de redynami
    
 Les [enjeux internationaux](interculturality.md) du marketing de destination est également un élément capital à prendre en compte.
 
-Les [exemples de marketing territorial] sont très nombreux, sur cet onglet j'en décris quelques uns. iquez [ici](case20%study.md) pour voir des illustrations. 
+Les [exemples de marketing territorial](examples.md) sont très nombreux, sur cet onglet j'en décris quelques uns. 
 
 ---------------------------------------------------------------------------------
-[Pour me contacter](...)
+[À Propos](contact.md)
