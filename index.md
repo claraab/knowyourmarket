@@ -1,5 +1,6 @@
 # Le Marketing Territorial 
 ---------------------------------------------------------------------
+
 _Le tourisme est une des industries ayant été la plus touchée par la crise sanitaire qui a frappé le monde entier en 2020. Malgré cela, et la fermeture de nombreuses infrastructures,
 l’industrie se relève progressivement. En effet selon l’Organisation Mondiale du Tourisme, le tourisme mondial aurait atteint 84% des niveaux pré-pandémiques lors du premier semestre de
 l’année 2023. Cette relance progressive s’est accompagnée de nouvelles stratégies marketing, ciblant un public plus national et local qu’international. Cette organisation de campagne marketing
@@ -30,21 +31,21 @@ De nombreux acteurs sont concernés par ce type de marketing, à plusieurs éche
 ## Les différentes techniques marketing
 Le marketing de destination à des techniques particulières pour promouvoir les territoires, en voici quelques-unes fréquemment utilisées : 
 
-1. Le Branding territorial
+1. **Branding territorial**
 Créer une identité forte, et distinctive est une façon idéale de démarquer un territoire des autres et d'attirer ainsi de nouveaux touristes, et investisseurs.
 La création d'un logo comme celui-ci est une des premières étapes d'un branding territorial:
-(image tcf)
+![logo Tout commence en Finistère](pics/TCF.jpg)
 
-2. Promotion touristique
+3. **Promotion touristique**
 Il est important de promouvoir les attractions touristiques d'un territoire pour y attirer les touristes. Pour cela, les parternariats avec des entreprises du tourismes, des évènements et campagnes promotionnelles sont des excellents moyens de faire de la promotion touristique. La petite ville d'Isle et Villaine de Bécherelle est ainsi partenaire avec l'office du tourisme de Rennes, chef-lieu de Bretagne, qui redirige les visiteurs cible de la ville de Bescherelle.
 
-3. Evènements et festivals
+4. **Evènements et festivals**
 Organiser des évènements et festivals de musiques, d'art dramatique ou tout autre intérêt culturel est le meilleur moyen d'attirer des visiteurs qui n'aurait autrement jamais songé visiter le territoire. Ainsi, la petite ville de 1 000 habitants de Sibiril, dans le Finistère nord, organise depuis maintenant deux ans le Pist'ribil, festival de musique électronique cherchant à attirer un public jeune qui se détourne autrement des villages ruraux.
 
-4. Marketing digital
+5. **Marketing digital**
 Le marketing digital est évidemment une part crucial de la promotion d'un territoire. Les campagnes de communication en ligne sont le meilleur moyen de promouvoir un territoire à grande échelle. Ainsi, de nombreuses régions contacte des influenceurs, stars des réseaux sociaux, afin de promouvoir indirectement à leur public les territoires et les rendre attractifs. La qualité instagrammable d'un territoire est devenu un critère majeur de choix de destination de voyage pour les plus jeunes, c'est ainsi que la communauté de lac de Wanaka en Nouvelle-Zélande collabore avec des influenceurs afin de rendre attractif le lac.
 
-5. Investissement dans l'économie locale
+6. **Investissement dans l'économie locale**
 Enfin, soutenir le développement économique local est une manière de redynamiser le territoire et le rendre plus attractif, notammant en promouvant l'entrepreneuriat, ou en attirant de nouveaux habitants. Ainsi, bon nombre de villages cède des terrains au prix d'1€ le m² afin d'attirer de jeunes ménages n'ayant pas autrement les moyens de s'installer. Le territoire de Grand-Orly Seine Bièvre en région Ile-de-France quant à lui cherche à attirer les entreprises sur son territoire notamment aux salons [Techinnov](https://www.techinnov.events/), ou bien le [Salon de l'immobilier d'entreprise](https://www.salonsimi.com/)
    
 Pour en apprendre plus sur les techniques de traduction cliquez [ici](interculturality.md)
