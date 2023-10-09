@@ -53,5 +53,8 @@ Les [enjeux internationaux](interculturality.md) du marketing de destination est
 
 Les [exemples de marketing territorial](examples.md) sont très nombreux, sur cet onglet j'en décris quelques uns. 
 
+Pour [revenir à la page d'accueil](index.md)
+
+
 ---------------------------------------------------------------------------------
-[À Propos](contact.md)
+[Me contacter](contact.md)
