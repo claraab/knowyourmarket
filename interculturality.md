@@ -32,3 +32,6 @@ Il est nécessaire de comprendre les tendances actuelles affectant le territoire
 Il est également essentiel de comprendre et prendre en compte les risques géopolitiques, économiques et sociaux à l'échelle mondiale. Pour qu'une stratégie de marketing territoriale soit un succès, il faut ainsi analyser les forces et faiblesses d'un territoire, trouver des solutions en cas de dépendance importante envers un secteur particulier (une dépendance énergétique envers un autre pays peut potentiellement être dangereuse comme en témoigne les conséquences de la guerre en Ukraine, ayant coupé l'Union Européenne de son fournisseur principal de pétrole, la Russie), et instaurer un bon plan de gestion de crise permettant à un territoire de survivre malgré une crise innatendue, comme l'a pû l'être la pandémie ayant frappé le monde entier en 2020. 
 
 Pour résumer, le marketing territorial à l'international nécessite une vraie étude approfondie de la concurrence, différences culturelles, réputations, tendances et des dynamiques mondiales pour une implantation réussie.
+
+-----------------------------------------------------
+[Revenir à la page d'accueil](index.md)
