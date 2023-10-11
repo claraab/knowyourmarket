@@ -34,4 +34,4 @@ Il est également essentiel de comprendre et prendre en compte les risques géop
 *Pour résumer, le marketing territorial à l'international nécessite une vraie étude approfondie de la concurrence, différences culturelles, réputations, tendances et des dynamiques mondiales pour une implantation réussie.*
 
 -----------------------------------------------------
-[<< Menu](index.md)
+[<< Revenir au menu](index.md)
