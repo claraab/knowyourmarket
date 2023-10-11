@@ -8,5 +8,5 @@ Adresse électronique | claraberger8@yahoo.com
 Adresse universitaire | clara.berger@etudiant.univ-brest.fr
 LinkedIn | [Mon Profil](https://www.linkedin.com/in/clara-berger-576701230/)
 
-
-[Retour à la page d'accueil](index.md)
+---------------------------------------------
+[<<Retour au menu](index.md)
