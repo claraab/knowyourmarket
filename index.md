@@ -1,5 +1,5 @@
 # Menu
-Bienvenue sur la page d'accueil de mon site internet, sur cette page vous retrouverez tous les onglets du site. La création de ce site à pour but de me former au langage markdown en introduisant le concept de marketing territorial !
+Bienvenue sur la page d'accueil de mon site internet, sur cette page vous retrouverez tous les onglets de mon site web. La création de ce site à pour but de me former au langage markdown en introduisant le concept de marketing territorial !
 -------------------------------------------
 * [Introduction au marketing territorial](marketing.md)
 
