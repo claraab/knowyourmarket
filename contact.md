@@ -9,4 +9,4 @@ Adresse universitaire | clara.berger@etudiant.univ-brest.fr
 LinkedIn | [Mon Profil](https://www.linkedin.com/in/clara-berger-576701230/)
 
 ---------------------------------------------
-[<<Retour au menu](index.md)
+[<< Revenir au menu](index.md)
